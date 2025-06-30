@@ -11,11 +11,11 @@ gatorion-db/ <br>
 ├── docs/ ← Documentação explicativa do banco <br>
 │ ├── descricao_tabelas.md <br>
 │ ├── integridade.md <br>
-│ └── lgpd_privacidade.md <br>
+│ 
 │<br>
 tabelas <br>
 │<br>
-├── modelo.png ← Diagrama ER <br>
+├── modelo.png <br>
 
 ---
 
